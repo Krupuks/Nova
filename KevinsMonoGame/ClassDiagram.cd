@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KevinsMonoGame.Animation" Collapsed="true">
+    <Position X="15.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AATEAAAAACAAAAAAAAACAAAAAAAAAAEAAAAAAQAAAAA=</HashCode>
+      <FileName>Classes\Animation\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.AnimationFrame" Collapsed="true">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Animation\AnimationFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.AnimationManager" Collapsed="true">
+    <Position X="15.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Animation\AnimationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.Collider" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYACAAAAAAAAIBAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Collision\Collider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.Enemy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Classes\Creatures\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.KeyboardReader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\InputReader\KeyboardReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="KevinsMonoGame.Movement" Collapsed="true">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Movement\Movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.Player" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Creatures\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.157" />
+  </Class>
+  <Class Name="KevinsMonoGame.Camera" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>QACAAAAAEAAABwAgAAAAAAQAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Classes\Camera\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.VoidBlock" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.25" Y="10.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAAAABAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Terrain\VoidBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.BlockFactory" Collapsed="true">
+    <Position X="4.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAAAgAAAA=</HashCode>
+      <FileName>Classes\Terrain\BlockFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.Terrain" Collapsed="true">
+    <Position X="27.5" Y="10.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAQEAEAAAAAAAgAAAAAAAAAAIAEABAAAAAAAACAAAAI=</HashCode>
+      <FileName>Classes\Terrain\Terrain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.CollisionDetector" Collapsed="true">
+    <Position X="17.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEAIAAEAABAIAgAAAAAAAAABABAAA=</HashCode>
+      <FileName>Classes\Collision\CollisionDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.Creature" Collapsed="true">
+    <Position X="14.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQASIAAAAoYCgAh5CAAAAQBMAAABACIRBDmQECFAEA=</HashCode>
+      <FileName>Classes\Creatures\Creature.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="KevinsMonoGame.Button" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAQgAAAAAAAAAAAAgAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Classes\Items\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.HealthBarNormal" Collapsed="true">
+    <Position X="20.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgQAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\HP\HealthBarNormal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.EnemySmall" Collapsed="true">
+    <Position X="9.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Creatures\EnemySmall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.Level" Collapsed="true">
+    <Position X="2.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAgAAAAAAEAAAAAAAEAAAAEAgAQAAAAA=</HashCode>
+      <FileName>Classes\Scenes\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.Menu" Collapsed="true">
+    <Position X="4.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAEE=</HashCode>
+      <FileName>Classes\Scenes\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.ItemDynamic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAACAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Classes\Items\ItemDynamic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.13" />
+  </Class>
+  <Class Name="KevinsMonoGame.Entity" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="8.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgAAIgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Items\Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.281" />
+  </Class>
+  <Class Name="KevinsMonoGame.EnemyMedium" Collapsed="true">
+    <Position X="11.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Creatures\EnemyMedium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.HealthBarBoss" Collapsed="true">
+    <Position X="22.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAgQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\HP\HealthBarBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.EnemyBoss" Collapsed="true">
+    <Position X="13" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Classes\Creatures\EnemyBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.LevelBoss" Collapsed="true">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAIAAABAAAA=</HashCode>
+      <FileName>Classes\Scenes\LevelBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.LevelRegular" Collapsed="true">
+    <Position X="4.5" Y="7.5" Width="1.5" />
+    <InheritanceLine Type="KevinsMonoGame.Level" FixedFromPoint="true">
+      <Path>
+        <Point X="3.25" Y="6.941" />
+        <Point X="3.25" Y="7.2" />
+        <Point X="5.25" Y="7.2" />
+        <Point X="5.25" Y="7.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Scenes\LevelRegular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.Scene" Collapsed="true">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAgAAAAAAAAgAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Classes\Scenes\Scene.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KevinsMonoGame.ScriptReader" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAACEAIAKAAAIAQAAAAAAAAACA=</HashCode>
+      <FileName>Classes\InputReader\ScriptReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.195" />
+  </Class>
+  <Class Name="KevinsMonoGame.GameNova" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAIAAxAAoAAAAAAAEAAAAAgBDAAAAAAAAAQ=</HashCode>
+      <FileName>Nova_Game.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KevinsMonoGame.ItemStatic" Collapsed="true">
+    <Position X="16.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Items\ItemStatic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.HealthManager" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\HP\HealthManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.EnemyFactory" Collapsed="true">
+    <Position X="4.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAIAAAAAAAA=</HashCode>
+      <FileName>Classes\Creatures\EnemyFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.AllColliders" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAEAAIEAAAAAgAAAEAAAAAAAAAAAAAAAIAAAABAAAA=</HashCode>
+      <FileName>Classes\Collision\AllColliders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.ColliderManager" Collapsed="true">
+    <Position X="17.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Collision\ColliderManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.SceneManager" Collapsed="true">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAEAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Scenes\SceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.Background" Collapsed="true">
+    <Position X="25.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAgBgAAAAAAABAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Terrain\Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.SolidBlock" Collapsed="true">
+    <Position X="24.25" Y="11.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Terrain\SolidBlock.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="KevinsMonoGame.HealthBar" Collapsed="true">
+    <Position X="20.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\HP\HealthBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.General" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IUhwAAAAAGgBIABAAAYAAAIBCIhAIAQIAFoEBCIIAIE=</HashCode>
+      <FileName>Classes\General.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.Gravity" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Movement\Gravity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KevinsMonoGame.DeathManager" Collapsed="true">
+    <Position X="10.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\HP\DeathManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="KevinsMonoGame.IAnimatable" Collapsed="true">
+    <Position X="15.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Interfaces\IAnimatable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.IControllable" Collapsed="true">
+    <Position X="19.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IControllable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.IGameObject" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IGameObject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.IInputReader" Collapsed="true">
+    <Position X="25.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IInputReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.IMovable" Collapsed="true">
+    <Position X="19.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABCAAAAABAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Interfaces\IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ISolid" Collapsed="true">
+    <Position X="17.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ISolid.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.IPositionable" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IPositionable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.IVisible" Collapsed="true">
+    <Position X="15.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAIgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IVisible.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.IRigid" Collapsed="true">
+    <Position X="21.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAgAAAAAAAAAAAAAAAAAAAAACBAAA=</HashCode>
+      <FileName>Interfaces\IRigid.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICompletable" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICompletable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.IDeviceReader" Collapsed="true">
+    <Position X="26.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IDeviceReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.IScriptReader" Collapsed="true">
+    <Position X="24" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IScriptReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.IHasScenes" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAAAAQ=</HashCode>
+      <FileName>Interfaces\IHasScenes.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanAttack" Collapsed="true">
+    <Position X="13.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAgAAAABIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICanAttack.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanCrouch" Collapsed="true">
+    <Position X="12" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAACAAABAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICanCrouch.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanJump" Collapsed="true">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAQAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICanJump.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanDie" Collapsed="true">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIAAAAAACAAAAAAAAAQAAAAAAAAAABAAQAAAAAA=</HashCode>
+      <FileName>Interfaces\ICanDie.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanAttackAnimated" Collapsed="true">
+    <Position X="13.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICanAttackAnimated.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanCrouchAnimated" Collapsed="true">
+    <Position X="12" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Interfaces\ICanCrouchAnimated.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanJumpAnimated" Collapsed="true">
+    <Position X="6.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Interfaces\ICanJumpAnimated.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanRun" Collapsed="true">
+    <Position X="8.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAACAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICanRun.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanRunAnimated" Collapsed="true">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICanRunAnimated.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanCrouchRun" Collapsed="true">
+    <Position X="10.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Interfaces\ICanCrouchRun.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KevinsMonoGame.ICanCrouchRunAnimated" Collapsed="true">
+    <Position X="10.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICanCrouchRunAnimated.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

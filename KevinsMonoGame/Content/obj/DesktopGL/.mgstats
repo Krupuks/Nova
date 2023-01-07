@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"G:/GameDev/KevinsMonoGame/Content/sprites/blackpixel.png","G:/GameDev/KevinsMonoGame/Content/bin/DesktopGL/sprites/blackpixel.xnb","TextureProcessor","Texture2DContent",119,89,1,492431
+"G:/GameDev/KevinsMonoGame/Content/sprites/Chloe_attack.png","G:/GameDev/KevinsMonoGame/Content/bin/DesktopGL/sprites/Chloe_attack.xnb","TextureProcessor","Texture2DContent",6378,331861,1,3087147
+"G:/GameDev/KevinsMonoGame/Content/sprites/Chloe_idle_sneaky.png","G:/GameDev/KevinsMonoGame/Content/bin/DesktopGL/sprites/Chloe_idle_sneaky.xnb","TextureProcessor","Texture2DContent",19770,1474645,1,7174033
+"G:/GameDev/KevinsMonoGame/Content/sprites/Chloe_idle.png","G:/GameDev/KevinsMonoGame/Content/bin/DesktopGL/sprites/Chloe_idle.xnb","TextureProcessor","Texture2DContent",30384,1474645,2,079712
+"G:/GameDev/KevinsMonoGame/Content/sprites/Chloe_run_sneaky.png","G:/GameDev/KevinsMonoGame/Content/bin/DesktopGL/sprites/Chloe_run_sneaky.xnb","TextureProcessor","Texture2DContent",6795,331861,0,9099104
+"G:/GameDev/KevinsMonoGame/Content/sprites/Chloe_run.png","G:/GameDev/KevinsMonoGame/Content/bin/DesktopGL/sprites/Chloe_run.xnb","TextureProcessor","Texture2DContent",6531,294997,1,527256
